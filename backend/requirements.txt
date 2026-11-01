@@ -1,6 +1,6 @@
 # Python 3.12 baseline; direct dependencies are deliberately pinned.
 fastapi==0.115.14
-uvicorn[standard]==0.34.3
+uvicorn[standard]==0.54.0
 pydantic==2.11.7
 pydantic-settings==2.10.1
 SQLAlchemy==2.0.41
