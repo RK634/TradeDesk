@@ -1,5 +1,5 @@
 # Python 3.12 baseline; direct dependencies are deliberately pinned.
-fastapi==0.115.14
+fastapi==0.162.0
 uvicorn[standard]==0.34.3
 pydantic==2.11.7
 pydantic-settings==2.10.1
