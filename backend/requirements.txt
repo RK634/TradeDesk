@@ -1,0 +1,13 @@
+# Python 3.12 baseline; direct dependencies are deliberately pinned.
+fastapi==0.115.14
+uvicorn[standard]==0.34.3
+pydantic==2.11.7
+pydantic-settings==2.10.1
+SQLAlchemy==2.0.41
+alembic==1.16.2
+psycopg[binary]==3.2.9
+python-multipart==0.0.20
+argon2-cffi==25.1.0
+pytest==8.4.1
+httpx==0.28.1
+boto3==1.39.4
